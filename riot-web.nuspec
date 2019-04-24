@@ -9,6 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/vector-im/riot-web/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://riot.im/</projectUrl>
+	<projectSourceUrl>https://github.com/vector-im/riot-web</projectSourceUrl>
 	<packageSourceUrl>https://github.com/Starz0r/riot-web-choco</packageSourceUrl>
     <iconUrl>https://cdn.staticaly.com/gh/Starz0r/riot-web-choco/68cc147ee4b82416c9232d4e6b9ea41e719d0cd2/riot-web.svg</iconUrl>
     <description>Riot (formerly known as Vector) is a Matrix web client built using the [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk).
